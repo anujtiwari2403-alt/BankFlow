@@ -1,0 +1,225 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "binarySearch",
+      "request": "launch",
+      "mainClass": "binarySearch",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "haspmap",
+      "request": "launch",
+      "mainClass": "haspmap",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "DigitCheck",
+      "request": "launch",
+      "mainClass": "DigitCheck",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "CountWords",
+      "request": "launch",
+      "mainClass": "CountWords",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicate",
+      "request": "launch",
+      "mainClass": "RemoveDuplicate",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "capitalizedWord",
+      "request": "launch",
+      "mainClass": "capitalizedWord",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "String",
+      "request": "launch",
+      "mainClass": "String",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "trainingArray",
+      "request": "launch",
+      "mainClass": "trainingArray",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "training",
+      "request": "launch",
+      "mainClass": "training",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "BankingSystem",
+      "request": "launch",
+      "mainClass": "BankingSystem",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "InnerOOP",
+      "request": "launch",
+      "mainClass": "InnerOOP",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "OOP$Dog",
+      "request": "launch",
+      "mainClass": "OOP$Dog",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "animal$Dog",
+      "request": "launch",
+      "mainClass": "animal$Dog",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "OOP",
+      "request": "launch",
+      "mainClass": "OOP",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "Starprint",
+      "request": "launch",
+      "mainClass": "Starprint",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "recusion",
+      "request": "launch",
+      "mainClass": "recusion",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "anuj",
+      "request": "launch",
+      "mainClass": "anuj",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "EVM",
+      "request": "launch",
+      "mainClass": "EVM",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "codingtest",
+      "request": "launch",
+      "mainClass": "codingtest",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "method",
+      "request": "launch",
+      "mainClass": "method",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "numberconcept",
+      "request": "launch",
+      "mainClass": "numberconcept",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "BrainAnalyzer",
+      "request": "launch",
+      "mainClass": "BrainAnalyzer",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "New java_7f460dc3"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "New java_7f460dc3"
+    }
+  ]
+}
